@@ -1,2 +1,8 @@
-# mediquard
-Fake Medicine Checker lets anyone scan a medicine strip and instantly see if it looks genuine (Green), suspicious (Yellow) or expired/likely fake (Red). Built for rural India with regional languages, voice output, offline checks and WhatsApp/SMS support, it helps users report fakes and find safe generic alternatives.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
